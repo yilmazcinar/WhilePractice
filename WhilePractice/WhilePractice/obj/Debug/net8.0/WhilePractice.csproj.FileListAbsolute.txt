@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\bin\Debug\net8.0\WhilePractice.exe
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\bin\Debug\net8.0\WhilePractice.deps.json
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\bin\Debug\net8.0\WhilePractice.runtimeconfig.json
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\bin\Debug\net8.0\WhilePractice.dll
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\bin\Debug\net8.0\WhilePractice.pdb
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\obj\Debug\net8.0\WhilePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\obj\Debug\net8.0\WhilePractice.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\obj\Debug\net8.0\WhilePractice.AssemblyInfo.cs
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\obj\Debug\net8.0\WhilePractice.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\obj\Debug\net8.0\WhilePractice.dll
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\obj\Debug\net8.0\refint\WhilePractice.dll
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\obj\Debug\net8.0\WhilePractice.pdb
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\obj\Debug\net8.0\WhilePractice.genruntimeconfig.cache
+C:\Users\caplo\source\repos\WhilePractice\WhilePractice\obj\Debug\net8.0\ref\WhilePractice.dll
